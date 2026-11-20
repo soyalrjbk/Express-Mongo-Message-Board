@@ -2,6 +2,8 @@
 
 A full-stack CRUD message board where anyone can post a message, give it a thumb up or thumb down, and delete it. Every action is saved to MongoDB Atlas, so the board stays the same for everyone who visits.
 
+**Live demo:** https://express-mongo-message-board.onrender.com
+
 <img width="559" height="383" alt="Screenshot 2026-10-21 at 6 27 25 AM" src="https://github.com/user-attachments/assets/b0b93d3d-f542-4630-9f04-3938d4ebe5db" />
 
 ## How It's Made:
